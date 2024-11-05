@@ -8,5 +8,5 @@ const useMounted = () => {
 	useEffect(() => { setHasMounted(true); }, []);
 	return hasMounted;
 };
-
+//hi
 export default useMounted;
